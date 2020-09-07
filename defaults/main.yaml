@@ -1,0 +1,3 @@
+nats_streaming_version: "0.18.0"
+nats_streaming_config_template: ""
+nats_streaming_nats_server_url: "nats://127.0.0.1:4222"
